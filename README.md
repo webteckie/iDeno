@@ -3,11 +3,11 @@ So what is this Deno thing all about...let's find out :-)
 
 https://deno.land/manual/getting_started
 
-Why Deno:
+Deno Blogging:
 
-    - https://maximousblk.now.sh/post/deno-for-javascript-beginners/
-    - https://www.geeksforgeeks.org/deno-js-introduction/
-    
+https://maximousblk.now.sh/post/deno-for-javascript-beginners/
+https://www.geeksforgeeks.org/deno-js-introduction/
+
 
 # Setup
 
